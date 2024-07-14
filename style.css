@@ -1,0 +1,169 @@
+.roboto {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+/* header style */
+.nv {
+    display: flex;
+    justify-content: space-between;
+    margin: 45px 180px;
+}
+
+.btn {
+    font-weight: bold;
+    border: 1px solid black;
+    border-radius: 5%;
+}
+
+.dv {
+    background-image: url(B10A1-Challenge-Begins/assets/Hero-bg.png);
+    background-repeat: no-repeat;
+}
+
+.banner {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.im {
+    display: block;
+    margin: auto;
+}
+
+.hope {
+    text-align: center;
+}
+
+.lo {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.bt {
+    text-align: center;
+}
+
+.bt2 {
+    background-color: black;
+    padding: 15px 32px;
+    margin: 4px 2px;
+    color: white;
+}
+
+.wh {
+    text-align: center;
+}
+
+.rm {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.b2 {
+    padding: 70px;
+}
+
+.for-flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-div {
+    margin-top: 50px;
+    max-width: 1140px;
+    margin: 48px;
+}
+.d2{
+    margin: 48px;
+}
+.mg{
+    margin-right: 48px;
+}
+.lm{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.f2{
+    margin-top: 30px;
+}
+.b3{
+    text-align: center;
+}
+.ip{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.vido{
+    margin: 48px;
+}
+.if{
+    width: 775px;
+    border-radius: 15px;
+}
+.b4{
+    text-align: center;
+    margin-top: 48px;
+}
+.ht{
+    display: flex;
+    margin-top: 48px;
+}
+.vv{
+    text-align: left;
+    margin: 40px;
+}
+.ll{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black; 
+}
+.os{
+    margin-top: 48px;
+}
+.next{
+    display: flex;
+    margin: auto;
+}
+.nc{
+    margin: auto;
+    padding-top: 45px;
+}
+.dummy{
+    text-align: left;
+    margin: auto;
+    font-family: serif;
+}
+.ter{
+    width: 1140px;
+    margin: auto;
+}
+.foo{
+    
+    background-image: url(../B10A1-Challenge-Begins/assets/handshake.JPG);
+    text-align: center;
+    height: 300px;
+    margin-top: 48px;
+    background-size: contain;
+}
+.nee{
+    margin: auto;
+    padding: 65px;
+    color: white;
+}
+.put{
+    height: 30px;
+    width: 350px;
+    border-radius: 5px;
+}
+.on{
+    height: 35px;
+    width: 90px;
+    border-radius: 5px; 
+}
+.hub{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+}
+.r{
+    padding: 5px;
+}
